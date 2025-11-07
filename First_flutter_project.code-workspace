@@ -1,0 +1,33 @@
+{
+  "folders": [
+    {
+      "name": "First Flutter Project",
+      "path": "."
+    },
+    {
+      "name": "hello_world_app",
+      "path": "./hello_world_app"
+    }
+  ],
+  "settings": {
+    "dart.flutterSdkPath": "/Users/kishalayghosh/Documents/flutter-sdk/flutter",
+    "dart.sdkPath": "/Users/kishalayghosh/Documents/flutter-sdk/flutter/bin/cache/dart-sdk",
+    "dart.flutterCreateAndroidLanguage": "kotlin",
+    "dart.flutterCreateIOSLanguage": "swift",
+    "dart.flutterCreatePlatforms": [
+      "android",
+      "ios",
+      "web",
+      "macos",
+      "windows",
+      "linux"
+    ]
+  },
+  "extensions": {
+    "recommendations": [
+      "dart-code.dart-code",
+      "dart-code.flutter"
+    ]
+  }
+}
+

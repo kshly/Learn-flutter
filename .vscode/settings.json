@@ -1,0 +1,18 @@
+{
+  "dart.flutterSdkPath": "/Users/kishalayghosh/Documents/flutter-sdk/flutter",
+  "dart.sdkPath": "/Users/kishalayghosh/Documents/flutter-sdk/flutter/bin/cache/dart-sdk",
+  "dart.analysisExcludedFolders": [],
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/*.code-search": true
+  }
+}
+
